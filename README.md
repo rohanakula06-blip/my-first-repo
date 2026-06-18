@@ -7,3 +7,5 @@ this statement is written beacause just know we have completd the ci working
 so to check the working of the ci this is written
 
 this statement is written to check wheather the deployment of the netlify is working or not
+
+im just adding this statement bcoz just now i have added a html file so just to verify that this site is deploying or not
